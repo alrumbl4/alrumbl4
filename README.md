@@ -4,7 +4,7 @@
 
 # <img width="5%" title="About me" src="attachments/images/about_me.png"> Обо мне
 
-<img align="right" width="35%" src="attachments/images/ga_about_me.png">
+<img align="right" width="35%" src="attachments/images/ga.png">
 
 ### _Я — QA Engineer_ <img width="3%" src="attachments/images/qa.png">
 <p align="left">
