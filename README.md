@@ -2,11 +2,11 @@
     <img title="Hi!" src="attachments/gif/hello_header0.gif">
 </p>
 
-# <img width="5%" title="About me" src="attachments/about_me.png"> Обо мне
+# <img width="5%" title="About me" src="attachments/images/about_me.png"> Обо мне
 
-<img align="right" width="35%" src="attachments/ga.png">
+<img align="right" width="35%" src="attachments/images/ga.png">
 
-### _Я — QA Engineer_ <img width="3%" src="attachments/qa_about_me.png">
+### _Я — QA Engineer_ <img width="3%" src="attachments/images/qa_about_me.png">
 <p align="left">
 Имею более 1.5 лет опыта в ручном тестировании мобильных и web-приложений. Регулярно обучаюсь в сфере тестирования. Изучаю новые технологии и совершенствую полученные навыки.
 
