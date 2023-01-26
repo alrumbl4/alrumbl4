@@ -6,7 +6,7 @@
 
 <img align="right" width="40%" title="Work" src="attachments/images/qa1.png">
 
-### _Я — QA Engineer__ <img width="3%" src="attachments/images/qa_about_me.png">
+### _Я — QA Engineer_   <img width="3%" src="attachments/images/qa_about_me.png">
 <p align="left">
 Имею более 1.5 лет опыта в ручном тестировании мобильных и web-приложений. Регулярно обучаюсь в сфере тестирования. Изучаю новые технологии и совершенствую полученные навыки.
 
