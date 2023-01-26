@@ -31,5 +31,5 @@
 <p align="center">
     <a href="https://t.me/alrumbl4"><img width=4% title="Telegram" src="attachments/images/telegram.png"></a>&nbsp;
     <a href="https://ivanovo.hh.ru/resume/ef5dd4d9ff096657f20039ed1f3652584a4a30"><img width=4% title="HeadHunter" src="attachments/images/hh.png"></a>&nbsp;
-    <a href="https://career.habr.com/alrum"><img width=5% title="Habr Career" src="attachments/images/habr2.svg"></a>
+    <a href="https://career.habr.com/alrum"><img width=5% title="Habr Career" src="attachments/images/habr2.png"></a>
 </p>
