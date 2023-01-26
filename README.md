@@ -27,9 +27,9 @@
 ![Allure Framework](https://img.shields.io/badge/-Allure%20Framework-fe5723?style=for-the-badge)
 ![Appium](https://img.shields.io/badge/-Appium-373937?style=for-the-badge&logo=Appium)
 
-## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
+## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Мои контакты
 <p align="center">
     <a href="https://t.me/alrumbl4"><img width=4% title="Telegram" src="attachments/images/telegram.png"></a>&nbsp;
     <a href="https://ivanovo.hh.ru/resume/ef5dd4d9ff096657f20039ed1f3652584a4a30"><img width=4% title="HeadHunter" src="attachments/images/hh.png"></a>&nbsp;
-    <a href="https://career.habr.com/alrum"><img width=5% title="Habr Career" src="attachments/images/habr.svg"></a>
+    <a href="https://career.habr.com/alrum"><img width=5% title="Habr Career" src="attachments/images/habr2.svg"></a>
 </p>
