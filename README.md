@@ -12,3 +12,18 @@
 
 Недавно закончил курс по автоматизированному тестированию от [**yandex.praktikum**](https://practicum.yandex.ru/qa-automation-engineer-java/). Сейчас активно продолжаю изучать язык программирования <code>Java</code> на [**JavaRush**](https://javarush.com/quests)
 </p>
+
+## <img width="4%" title="Technology stack" src="attachments/images/stack.png"> Стек технологий
+<p align="center">
+    ![IDEA](https://img.shields.io/badge/-Intellij%20IDEA-373937?style=for-the-badge&logo=IntellijIDEA&logoColor=0)
+![IDEA](https://img.shields.io/badge/-Java-fe5723?style=for-the-badge)
+![Apache Maven](https://img.shields.io/badge/-Maven-373937?style=for-the-badge&logo=Apache%20Maven)
+![Junit4](https://img.shields.io/badge/-Junit4-fe5723?style=for-the-badge&)
+![Selenium](https://img.shields.io/badge/-Selenium-373937?style=for-the-badge&logo=Selenium)
+![Selenide](https://img.shields.io/badge/-Selenide-fe5723?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-373937?style=for-the-badge&logo=GitHub)
+![REST Assured](https://img.shields.io/badge/-REST%20Assured-fe5723?style=for-the-badge)
+![Jira](https://img.shields.io/badge/-Jira-373937?style=for-the-badge&logo=Jira)
+![Allure Framework](https://img.shields.io/badge/-Allure%20Framework-fe5723?style=for-the-badge)
+![Appium](https://img.shields.io/badge/-Appium-373937?style=for-the-badge&logo=Appium)
+</p>
