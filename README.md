@@ -13,7 +13,7 @@
 Недавно закончил курс по автоматизированному тестированию от [**yandex.praktikum**](https://practicum.yandex.ru/qa-automation-engineer-java/). Сейчас активно продолжаю изучать язык программирования <code>Java</code> на [**JavaRush**](https://javarush.com/quests)
 </p>
 
-## <img width="2%" title="Technology stack" src="attachments/images/stack.png"> Стек технологий:
+## <img width="3%" title="Technology stack" src="attachments/images/stack.png"> Стек технологий:
 
 ![IDEA](https://img.shields.io/badge/-Intellij%20IDEA-373937?style=for-the-badge&logo=IntellijIDEA&logoColor=0)
 ![IDEA](https://img.shields.io/badge/-Java-fe5723?style=for-the-badge)
