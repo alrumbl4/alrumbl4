@@ -10,7 +10,7 @@
 <p align="left">
 Имею более 1.5 лет опыта в ручном тестировании мобильных и web-приложений. Регулярно обучаюсь в сфере тестирования. Изучаю новые технологии и совершенствую полученные навыки.
 
-Недавно закончил курс по автоматизированному тестированию от [**yandex.praktikum**](https://practicum.yandex.ru/qa-automation-engineer-java/). Сейчас активно продолжаю изучать язык программирования <code>Java</code> на [**JavaRush**](https://javarush.com/quests)
+Закончил курс по автоматизированному тестированию от [**yandex.praktikum**](https://practicum.yandex.ru/qa-automation-engineer-java/), далее подтягивал знания по языку программирования <code>Java</code> на [**JavaRush**](https://javarush.com/quests). Сейчас начал заниматься автоматизацией UI тестов мобильного приложения MISHKA
 </p>
 
 ## <img width="3%" title="Technology stack" src="attachments/images/stack.png"> Стек технологий:
